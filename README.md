@@ -2,7 +2,7 @@
 
 
 
-![]()
+![](https://github.com/rickey030968/rickey030968.github.io/blob/main/%E7%B4%A2%E5%BC%95.jpg)
 You can use the [editor on GitHub](https://github.com/jj7756123/jj7756123.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
